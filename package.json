@@ -1,0 +1,24 @@
+{
+  "name": "mine",
+  "version": "1.24.0",
+  "description": "VoxelCraft 1.24.X Release — Biomas 1.24, Trial Chambers, Pale Garden, Maza, Servicio Multijugador y Base de Datos Supabase",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "minecraft",
+    "voxelcraft",
+    "threejs",
+    "webgl",
+    "supabase",
+    "multiplayer",
+    "voxel"
+  ],
+  "author": "Cris",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
